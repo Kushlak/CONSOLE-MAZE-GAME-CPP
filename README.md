@@ -1,1 +1,1 @@
-A final version of my labyrinth game on C++.
+Mini-console game on C++.
